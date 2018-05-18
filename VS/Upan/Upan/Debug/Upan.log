@@ -1,0 +1,4 @@
+﻿  Upan.cpp
+d:\project\vs\upan\upan\upan.cpp(14): warning C4018: “<=”: 有符号/无符号不匹配
+  Upan.vcxproj -> D:\project\VS\Upan\Debug\Upan.exe
+  Upan.vcxproj -> D:\project\VS\Upan\Debug\Upan.pdb (Full PDB)

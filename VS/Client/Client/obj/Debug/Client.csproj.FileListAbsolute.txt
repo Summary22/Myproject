@@ -1,0 +1,10 @@
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.exe
+c:\users\wangx\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.pdb
+D:\project\VS\Client\Client\bin\Debug\Client.exe.config
+D:\project\VS\Client\Client\obj\Debug\Client.exe
+D:\project\VS\Client\Client\obj\Debug\Client.pdb

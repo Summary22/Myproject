@@ -1,0 +1,9 @@
+D:\project\VS\p2w\p2w\bin\Debug\p2w.exe.config
+D:\project\VS\p2w\p2w\bin\Debug\p2w.exe
+D:\project\VS\p2w\p2w\bin\Debug\p2w.pdb
+D:\project\VS\p2w\p2w\obj\Debug\p2w.csprojResolveAssemblyReference.cache
+D:\project\VS\p2w\p2w\obj\Debug\p2w.Form1.resources
+D:\project\VS\p2w\p2w\obj\Debug\p2w.Properties.Resources.resources
+D:\project\VS\p2w\p2w\obj\Debug\p2w.csproj.GenerateResource.Cache
+D:\project\VS\p2w\p2w\obj\Debug\p2w.exe
+D:\project\VS\p2w\p2w\obj\Debug\p2w.pdb

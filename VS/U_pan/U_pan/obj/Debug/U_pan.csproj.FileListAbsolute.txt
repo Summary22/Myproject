@@ -1,0 +1,9 @@
+D:\project\VS\U_pan\U_pan\bin\Debug\U_pan.exe.config
+D:\project\VS\U_pan\U_pan\bin\Debug\U_pan.exe
+D:\project\VS\U_pan\U_pan\bin\Debug\U_pan.pdb
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.csprojResolveAssemblyReference.cache
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.Form1.resources
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.Properties.Resources.resources
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.csproj.GenerateResource.Cache
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.exe
+D:\project\VS\U_pan\U_pan\obj\Debug\U_pan.pdb
